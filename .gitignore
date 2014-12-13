@@ -1,3 +1,5 @@
-
-.classpath
 *.prefs
+.classpath
+*.class
+
+bin/project/razerhydra/TestRazerHydra.class
